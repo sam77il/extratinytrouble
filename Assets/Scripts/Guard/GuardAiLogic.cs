@@ -47,20 +47,23 @@ public class GuardAiLogic : MonoBehaviour
             m_Animator.speed = 1f; // reset animation speed when not walking
     }
 
-    public void PausePatrollingForSeconds(float duration)
+    //public void PausePatrollingForSeconds(float duration)
+    public void PausePatrollingForSeconds(float seconds)
     {
         if (patrollingIsEnabled)
-            StartCoroutine(PausePatrollingForSecondsHelper(duration));
+            //StartCoroutine(PausePatrollingForSecondsHelper(duration));
+            StartCoroutine(PausePatrollingForSecondsHelper(seconds));
     }
 
-    private IEnumerator PausePatrollingForSecondsHelper(float duration)
+    //private IEnumerator PausePatrollingForSecondsHelper(float duration)
+    private IEnumerator PausePatrollingForSecondsHelper(float seconds)
     {
         // pause patrolling for duration seconds
         patrollingIsEnabled = false;
         m_Agent.isStopped = true;
         m_Animator.SetBool("isWalking", false); // set animation
 
-        yield return new WaitForSeconds(duration); // wait for duration seconds
+        yield return new WaitForSeconds(seconds); // wait for x seconds
 
         // resume patrolling
         patrollingIsEnabled = true;
@@ -86,7 +89,8 @@ public class GuardAiLogic : MonoBehaviour
         yield return new WaitForSeconds(delayBetweenPatrolPoints);
 
         m_Animator.SetBool("isWalking", true);
-        m_Agent.destination = patrolPoints[currentPatrolIndex++ % patrolPoints.Length].position;
+        if (patrolPoints.Length != 0)
+            m_Agent.destination = patrolPoints[currentPatrolIndex++ % patrolPoints.Length].position;
 
         StartCoroutine(WaitUntilAgentReachDestination());
     }
