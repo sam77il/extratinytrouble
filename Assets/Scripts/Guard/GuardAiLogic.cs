@@ -11,15 +11,15 @@ using UnityEngine.AI;
 public class GuardAiLogic : MonoBehaviour
 {
     // Variables
-    NavMeshAgent m_Agent;
-    private Animator m_Animator;
+    protected NavMeshAgent m_Agent;
+    protected Animator m_Animator;
 
     [Header("Patrolling Settings")]
     [SerializeField] private float delayBetweenPatrolPoints;
     [SerializeField] private GameObject patrolPointsParent;
     private Transform[] patrolPoints;
     private int currentPatrolIndex = 0;
-    private bool patrollingIsEnabled;
+    protected bool patrollingIsEnabled;
 
     void Start()
     {
