@@ -145,10 +145,10 @@ public class Player : MonoBehaviour
 
         if (isLookable != null)
         {
-            directionBox.SetActive(true);
+            if (directionBox != null) directionBox.SetActive(true);
             isLookable.Look();
         }
-        else
+        else if (directionBox != null)
         {
             directionBox.SetActive(false);
         }
