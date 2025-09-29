@@ -26,7 +26,19 @@ public class Player : MonoBehaviour
     public bool IsSprinting { get; private set; }
     public bool IsCrouching { get; private set; }
 
-    private Item isInteractable;
+    private Interactables isInteractable;
+    private Lookables isLookable;
+    public int Health { get; private set; }
+    [SerializeField] private GameObject directionBox;
+
+    public void UpdateHealth(string operation, int amount)
+    {
+        if (operation == "add") Health += amount;
+        else if (operation == "rem") Health -= amount;
+        else if (operation == "set") Health = amount;
+
+        Health = Mathf.Clamp(Health, 0, 100);
+    }
 
     private void Awake()
     {
@@ -45,7 +57,7 @@ public class Player : MonoBehaviour
 
         inputActions.Player.Crouch.performed += ctx =>
         {
-            characterController.height = 0.5f;
+            characterController.height = 0.3f;
             IsCrouching = true;
             // GameDebug.Instance.UpdateDebugText("crouching", IsCrouching);
         };
@@ -80,6 +92,14 @@ public class Player : MonoBehaviour
             IsSprinting = false;
             // GameDebug.Instance.UpdateDebugText("sprinting", IsSprinting);
         };
+
+        inputActions.Player.Interact.performed += ctx =>
+        {
+            if (isInteractable != null)
+            {
+                isInteractable.Use();
+            }
+        };
     }
 
     private void Start()
@@ -113,12 +133,24 @@ public class Player : MonoBehaviour
 
         if (hit.collider != null)
         {
+            isInteractable = hit.collider.CompareTag("Interactable") ? hit.collider.GetComponent<Interactables>() : null;
+            isLookable = hit.collider.CompareTag("Lookable") ? hit.collider.GetComponent<Lookables>() : null;
             Debug.Log("Hit: " + hit.collider.name);
-            isInteractable = hit.collider.CompareTag("Interactable") ? hit.collider.GetComponent<Item>() : null;
         }
         else
         {
             isInteractable = null;
+            isLookable = null;
+        }
+
+        if (isLookable != null)
+        {
+            directionBox.SetActive(true);
+            isLookable.Look();
+        }
+        else
+        {
+            directionBox.SetActive(false);
         }
     }
 
