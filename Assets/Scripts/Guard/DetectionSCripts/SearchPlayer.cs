@@ -19,6 +19,7 @@ public class SearchPlayer : MonoBehaviour
 
         playerDetectionState = null; // we will get this component later from the player when we see him
 
+
     }
 
     void FixedUpdate()
