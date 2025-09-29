@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
 {
@@ -77,12 +78,15 @@ public class GameManager : MonoBehaviour
 
     public void NewGame(string name, int diff = 0)
     {
+        int finalLives = 10;
+        if (diff == 1) finalLives = 5;
+        else if (diff == 2) finalLives = 1;
         CurrentGame = new Game
         {
             gameName = name,
             difficulty = diff,
             level = 1,
-            deaths = 0,
+            lives = finalLives,
             date = System.DateTime.Now
         };
         SaveGameToJson();

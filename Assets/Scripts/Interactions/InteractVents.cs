@@ -26,12 +26,6 @@ public class InteractVents : Interactables
 
     }
 
-    private IEnumerator UseDelay()
-    {
-        yield return new WaitForSeconds(3.5f);
-        Use();
-    }
-
     public override void Use()
     {
         if (!AllScrewsUnscrewed())

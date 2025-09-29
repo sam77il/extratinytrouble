@@ -167,6 +167,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (2)
@@ -379,6 +387,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (1)
@@ -465,6 +481,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.17
@@ -747,6 +771,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (3)
@@ -854,6 +886,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (9)
@@ -956,6 +996,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 179.299
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (14)
@@ -1115,6 +1163,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (5)
@@ -1181,6 +1237,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -1244,6 +1308,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -1618,6 +1690,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1684,6 +1764,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (17)
@@ -1894,6 +1982,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa
@@ -2290,6 +2386,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.78
@@ -2432,6 +2536,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (11)
@@ -2498,6 +2610,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2572,6 +2692,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (23)
@@ -2634,6 +2762,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa
@@ -2729,6 +2865,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -2800,6 +2944,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa
@@ -2913,6 +3065,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 757343218}
     m_Modifications:
+    - target: {fileID: 442819425495116168, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 442819425495116168, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 1616257042171335399, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9770002
@@ -3015,6 +3175,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (5)
@@ -3110,6 +3278,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.701
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (16)
@@ -3176,6 +3352,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3238,6 +3422,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3383,9 +3575,17 @@ PrefabInstance:
       value: -108.675
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 32585233b713986429de07c3ab3f2962, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
       propertyPath: m_Name
       value: "pip2_m\xFClleimer_wa"
@@ -3549,6 +3749,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (4)
@@ -3658,6 +3866,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (20)
@@ -3720,6 +3936,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -134.764
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fc33de78d7572624a9b968dd7709e01a, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fc33de78d7572624a9b968dd7709e01a, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: fc33de78d7572624a9b968dd7709e01a, type: 3}
       propertyPath: m_Name
       value: pip2_melonhusk_wa
@@ -3793,6 +4017,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (7)
@@ -3859,6 +4091,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3917,6 +4157,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (5)
@@ -4000,6 +4248,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (4)
@@ -4078,6 +4334,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (2)
@@ -4206,6 +4470,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -4269,6 +4541,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4409,6 +4689,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4471,6 +4759,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 283.03
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4530,9 +4826,17 @@ PrefabInstance:
       value: -108.675
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 32585233b713986429de07c3ab3f2962, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 59f6ed52ebba4714ea21b5b2caa6f902, type: 3}
       propertyPath: m_Name
       value: "pip2_m\xFClleimer_wa (1)"
@@ -4626,6 +4930,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (5)
@@ -4721,6 +5033,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4783,6 +5103,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4845,6 +5173,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5012,6 +5348,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (3)
@@ -5103,6 +5447,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (16)
@@ -5169,6 +5521,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -5306,6 +5666,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (24)
@@ -5413,6 +5781,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -5545,6 +5921,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (2)
@@ -5670,6 +6054,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 81.824
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa
@@ -5748,6 +6140,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (4)
@@ -5914,6 +6314,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa
@@ -6009,6 +6417,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6198,6 +6614,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (6)
@@ -6260,6 +6684,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa
@@ -6352,6 +6784,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -6376,6 +6816,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.98
@@ -6498,6 +6946,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (8)
@@ -6646,6 +7102,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.z
       value: 7.12
@@ -6862,6 +7326,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (19)
@@ -6924,6 +7396,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180.001
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (4)
@@ -7089,6 +7569,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.6800003
@@ -7379,6 +7867,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7441,6 +7937,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -34.909
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7499,6 +8003,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.809
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2d131505056d0924abfa0980261cacc4, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2d131505056d0924abfa0980261cacc4, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 2d131505056d0924abfa0980261cacc4, type: 3}
       propertyPath: m_Name
       value: pip2_regal_normal_wa
@@ -7556,6 +8068,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180.001
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (1)
@@ -7822,6 +8342,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (2)
@@ -7963,6 +8491,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (7)
@@ -8025,6 +8561,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (7)
@@ -8091,6 +8635,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -105.07
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8271,6 +8823,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (6)
@@ -8382,6 +8942,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (5)
@@ -8444,6 +9012,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (3)
@@ -8539,6 +9115,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8557,6 +9141,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6062331536507723813, guid: f67295bc4e5b2bf45bef62b099c2f032, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062331536507723813, guid: f67295bc4e5b2bf45bef62b099c2f032, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
+    - target: {fileID: 6282594373390379141, guid: f67295bc4e5b2bf45bef62b099c2f032, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6282594373390379141, guid: f67295bc4e5b2bf45bef62b099c2f032, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 8286547008339640132, guid: f67295bc4e5b2bf45bef62b099c2f032, type: 3}
       propertyPath: m_Name
       value: DoorUnopenable
@@ -8655,6 +9255,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e4f4177a71fafdd4687f3efbcfb2f526, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e4f4177a71fafdd4687f3efbcfb2f526, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: e4f4177a71fafdd4687f3efbcfb2f526, type: 3}
       propertyPath: m_Name
       value: pip2_crate_1_bm
@@ -8715,6 +9323,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 82.438
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (9)
@@ -8786,6 +9402,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -8845,6 +9469,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (14)
@@ -8953,6 +9585,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (10)
@@ -9015,6 +9655,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (8)
@@ -9077,6 +9725,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (18)
@@ -9139,6 +9795,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (10)
@@ -9201,6 +9865,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 76.112
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (5)
@@ -9267,6 +9939,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -84.395
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9329,6 +10009,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9347,6 +10035,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.13
@@ -9477,6 +10173,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.701
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (15)
@@ -9543,6 +10247,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9724,6 +10436,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.z
       value: 11.07358
@@ -9927,6 +10647,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10001,6 +10729,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (1)
@@ -10063,6 +10799,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (4)
@@ -10154,6 +10898,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa
@@ -10249,6 +11001,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (11)
@@ -10405,6 +11165,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (1)
@@ -10511,6 +11279,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 80.446
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (11)
@@ -10573,6 +11349,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (2)
@@ -10680,6 +11464,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (21)
@@ -10746,6 +11538,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -10825,6 +11625,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.1
@@ -10951,6 +11759,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.99
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
       propertyPath: m_Name
       value: pip2_keypad_lvl1_bm
@@ -11016,6 +11832,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (5)
@@ -11111,6 +11935,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -11233,6 +12065,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (4)
@@ -11311,6 +12151,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (14)
@@ -11373,6 +12221,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa
@@ -11395,6 +12251,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.17
@@ -11530,6 +12394,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -11657,6 +12529,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11756,6 +12636,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -11815,6 +12703,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (3)
@@ -11971,6 +12867,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (2)
@@ -12033,6 +12937,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 192.991
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (11)
@@ -12095,6 +13007,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (2)
@@ -12157,6 +13077,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (3)
@@ -12208,6 +13136,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.z
       value: 3.03
@@ -12338,6 +13274,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (8)
@@ -12426,6 +13370,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (6)
@@ -12488,6 +13440,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (9)
@@ -12554,6 +13514,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12612,6 +13580,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (9)
@@ -12690,6 +13666,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (5)
@@ -12768,6 +13752,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (2)
@@ -12883,6 +13875,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -179.99
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (4)
@@ -12990,6 +13990,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (26)
@@ -13130,6 +14138,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 179.973
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (4)
@@ -13225,6 +14241,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13299,6 +14323,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (10)
@@ -13377,6 +14409,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (8)
@@ -13455,6 +14495,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (22)
@@ -13604,6 +14652,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (3)
@@ -13781,6 +14837,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -179.99
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (1)
@@ -13885,6 +14949,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (4)
@@ -13907,6 +14979,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1394242561}
     m_Modifications:
+    - target: {fileID: 2078081527213021585, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2078081527213021585, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
+    - target: {fileID: 2509799998572343751, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2509799998572343751, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 4794256213557667440, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
       propertyPath: m_Name
       value: DoorOpenable
@@ -13955,6 +15043,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -0.007
       objectReference: {fileID: 0}
+    - target: {fileID: 7230140318858377489, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7230140318858377489, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 7333508671423172095, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.003
@@ -13995,6 +15091,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7442029550411035057, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442029550411035057, guid: 20785a023e47b614aa4d850e0cfdd4c6, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14064,6 +15168,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (11)
@@ -14131,6 +15243,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (5)
@@ -14256,6 +15376,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (19)
@@ -14380,6 +15508,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (5)
@@ -14475,6 +15611,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -14565,6 +15709,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (11)
@@ -14747,6 +15899,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597352913887773633, guid: 7dac9a13f2ffd974680c8f77212c8d68, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14805,6 +15965,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (3)
@@ -15009,6 +16177,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (9)
@@ -15092,6 +16268,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (9)
@@ -15154,6 +16338,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 82.438
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (3)
@@ -15220,6 +16412,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15294,6 +16494,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 12340950cf421104f8f81f52b5fe5b7a, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 12340950cf421104f8f81f52b5fe5b7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 12340950cf421104f8f81f52b5fe5b7a, type: 3}
       propertyPath: m_Name
       value: pip2_lighter_bm
@@ -15378,6 +16586,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (12)
@@ -15444,6 +16660,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15502,6 +16726,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e3994eb417a023047974f56afecb0154, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e3994eb417a023047974f56afecb0154, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: e3994eb417a023047974f56afecb0154, type: 3}
       propertyPath: m_Name
       value: pip2_lvl3room_bm(1)
@@ -15647,6 +16879,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 72.981
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (10)
@@ -15709,6 +16949,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (3)
@@ -15882,6 +17130,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 359.29
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (17)
@@ -15944,6 +17200,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab5e593da7b04d7429132de1a0c95053, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab5e593da7b04d7429132de1a0c95053, type: 3}
+      propertyPath: 'm_Materials.Array.data[4]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: ab5e593da7b04d7429132de1a0c95053, type: 3}
       propertyPath: m_Name
       value: pip2_canteen_bm 1
@@ -16009,6 +17273,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 72.981
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (4)
@@ -16075,6 +17347,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -16197,6 +17477,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (7)
@@ -16263,6 +17551,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16321,6 +17617,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (3)
@@ -16462,6 +17766,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -16537,6 +17849,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (25)
@@ -16607,6 +17927,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (10)
@@ -16673,6 +18001,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16852,6 +18188,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 71.95
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (8)
@@ -16914,6 +18258,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (2)
@@ -17009,6 +18361,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (13)
@@ -17075,6 +18435,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 103.04
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17093,6 +18461,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.88
@@ -17332,6 +18708,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -17736,6 +19120,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (5)
@@ -17814,6 +19206,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (10)
@@ -17970,6 +19370,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (13)
@@ -18134,6 +19542,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (1)
@@ -18200,6 +19616,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18270,6 +19694,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (1)
@@ -18332,6 +19764,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 71.95
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (2)
@@ -18398,6 +19838,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18598,6 +20046,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18734,6 +20190,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (6)
@@ -18796,6 +20260,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (2)
@@ -18858,6 +20330,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 64.522
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (6)
@@ -18920,6 +20400,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (15)
@@ -19016,6 +20504,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (5)
@@ -19111,6 +20607,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -19186,6 +20690,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (3)
@@ -19248,6 +20760,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 77.811
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (7)
@@ -19310,6 +20830,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (4)
@@ -19514,6 +21042,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -19732,6 +21268,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (12)
@@ -19831,6 +21375,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (9)
@@ -19879,6 +21431,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 757343218}
     m_Modifications:
+    - target: {fileID: 442819425495116168, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 442819425495116168, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 1616257042171335399, guid: 4fb8ad72beedf51458dad3d05b6acd63, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9770002
@@ -20028,6 +21588,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 77.811
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (1)
@@ -20094,6 +21662,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -20153,6 +21729,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: cf48655b32bed0e4ea644d38867c4eb8, type: 3}
       propertyPath: m_Name
       value: pip2_orange_wa (12)
@@ -20175,6 +21759,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.88
@@ -20714,6 +22306,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b6f53c786b0393c438744fbad7f30517, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b6f53c786b0393c438744fbad7f30517, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: b6f53c786b0393c438744fbad7f30517, type: 3}
       propertyPath: m_Name
       value: pip2_crate_0.5_bm
@@ -20819,6 +22419,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1037591288}
     m_Modifications:
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707845738392922891, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 3990275361896513055, guid: 560d4aef5e3aa2b4881f59c9acc2e980, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.07
@@ -20945,6 +22553,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (7)
@@ -21011,6 +22627,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.701
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (12)
@@ -21077,6 +22701,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -109.98801
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21151,6 +22783,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (1)
@@ -21217,6 +22857,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.701
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 01f526572b8847a4aa1684c70ec37092, type: 3}
       propertyPath: m_Name
       value: pip2_kantinentablett_wa (13)
@@ -21283,6 +22931,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -21358,6 +23014,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (6)
@@ -21372,6 +23036,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
   m_PrefabInstance: {fileID: 1955868808}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1957823245
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4135361056299074019, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.24556994
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40520167
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.982231
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531039471552490268, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad55ff4b2c14e974badaa0cbc6a7dc98, type: 3}
 --- !u!1001 &1970303053
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21424,6 +23145,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21482,6 +23211,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (4)
@@ -21610,6 +23347,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -21673,6 +23418,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21735,6 +23488,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21856,6 +23617,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 1e4a64a517c8e164c9b8541c12108ffb, type: 3}
       propertyPath: m_Name
       value: pip2_apfel_wa (1)
@@ -21922,6 +23691,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -21997,6 +23774,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa
@@ -22197,6 +23982,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 179.973
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d9bc32438bdfb49a31399a08f43321, type: 3}
       propertyPath: m_Name
       value: pip2_stehtisch_wa (1)
@@ -22292,6 +24085,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22444,6 +24245,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (7)
@@ -22573,6 +24382,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -22709,6 +24526,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22783,6 +24608,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (3)
@@ -22934,6 +24767,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: 31b7d82d04395bf4aa6352eb3c361bcb, type: 3}
       propertyPath: m_Name
       value: pip2_banane_wa (8)
@@ -23000,6 +24841,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23074,6 +24923,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (8)
@@ -23225,6 +25082,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     - target: {fileID: 919132149155446097, guid: dc40e1766199fc74381bd7fc340ea928, type: 3}
       propertyPath: m_Name
       value: pip2_wasserflasche_wa (6)
@@ -23502,6 +25367,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6414097483262172465, guid: 5f893629512b1ce4595b9a4c3347e760, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23626,6 +25499,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.008
       objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958807409722943717, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68b881ae11aecc24daff1db15c39c06e, type: 2}
     m_RemovedComponents:
     - {fileID: 4127008667093119936, guid: 606577d7a32824f4e92bb23ba8bbe03b, type: 3}
     m_RemovedGameObjects: []
@@ -23659,3 +25540,4 @@ SceneRoots:
   - {fileID: 543194526}
   - {fileID: 315332410076672579}
   - {fileID: 4514805936921070610}
+  - {fileID: 1957823245}
