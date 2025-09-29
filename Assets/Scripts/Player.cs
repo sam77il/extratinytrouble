@@ -35,25 +35,25 @@ public class Player : MonoBehaviour
         inputActions.Player.Move.performed += ctx =>
         {
             MovementInput = ctx.ReadValue<Vector2>();
-            GameDebug.Instance.UpdateDebugText("walking", true);
+            // GameDebug.Instance.UpdateDebugText("walking", true);
         };
         inputActions.Player.Move.canceled += ctx =>
         {
             MovementInput = Vector2.zero;
-            GameDebug.Instance.UpdateDebugText("walking", false);
+            // GameDebug.Instance.UpdateDebugText("walking", false);
         };
 
         inputActions.Player.Crouch.performed += ctx =>
         {
             characterController.height = 0.5f;
             IsCrouching = true;
-            GameDebug.Instance.UpdateDebugText("crouching", IsCrouching);
+            // GameDebug.Instance.UpdateDebugText("crouching", IsCrouching);
         };
         inputActions.Player.Crouch.canceled += ctx =>
         {
             characterController.height = 1f;
             IsCrouching = false;
-            GameDebug.Instance.UpdateDebugText("crouching", IsCrouching);
+            // GameDebug.Instance.UpdateDebugText("crouching", IsCrouching);
         };
 
         inputActions.Player.Look.performed += ctx => RotationInput = ctx.ReadValue<Vector2>();
@@ -62,23 +62,23 @@ public class Player : MonoBehaviour
         inputActions.Player.Jump.performed += ctx =>
         {
             IsJumping = true;
-            GameDebug.Instance.UpdateDebugText("jumping", IsJumping);
+            // GameDebug.Instance.UpdateDebugText("jumping", IsJumping);
         };
         inputActions.Player.Jump.canceled += ctx =>
         {
             IsJumping = false;
-            GameDebug.Instance.UpdateDebugText("jumping", IsJumping);
+            // GameDebug.Instance.UpdateDebugText("jumping", IsJumping);
         };
 
         inputActions.Player.Sprint.performed += ctx =>
         {
             IsSprinting = true;
-            GameDebug.Instance.UpdateDebugText("sprinting", IsSprinting);
+            // GameDebug.Instance.UpdateDebugText("sprinting", IsSprinting);
         };
         inputActions.Player.Sprint.canceled += ctx =>
         {
             IsSprinting = false;
-            GameDebug.Instance.UpdateDebugText("sprinting", IsSprinting);
+            // GameDebug.Instance.UpdateDebugText("sprinting", IsSprinting);
         };
     }
 
@@ -131,7 +131,7 @@ public class Player : MonoBehaviour
 
     private void HandleJumping()
     {
-        GameDebug.Instance.UpdateDebugText("grounded", characterController.isGrounded);
+        // GameDebug.Instance.UpdateDebugText("grounded", characterController.isGrounded);
         if (characterController.isGrounded)
         {
             currentMovement.y = -0.5f;
