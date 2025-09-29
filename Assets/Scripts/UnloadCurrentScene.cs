@@ -5,7 +5,7 @@ using UnityEngine.Video;
 
 public class UnloadCurrentScene : MonoBehaviour
 {
-    [SerializeField] private VideoClip video;
+    [SerializeField] private VideoClip video; // reference to the video clip to get its length
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -15,12 +15,20 @@ public class UnloadCurrentScene : MonoBehaviour
 
     private IEnumerator UnloadSceneAfterSeconds()
     {
-        yield return new WaitForSeconds((float) video.length);
+        yield return new WaitForSeconds((float)video.length); // wait for the length of the video
 
-        // unload current scene
-        Debug.Log("UnloadingScene: " + gameObject.scene.name);
-        SceneManager.UnloadSceneAsync(gameObject.scene.name);
+        string sceneName = gameObject.scene.name; // get current scene name
 
+        if (sceneName == "Credits")
+        {
+            SceneManager.LoadScene(0); // load main menu after credits
+        }
+        else
+        {
+            // unload cutscene
+            Debug.Log("UnloadingScene: " + sceneName);
+            SceneManager.UnloadSceneAsync(sceneName);
+        }
     }
 
 }
