@@ -8,6 +8,12 @@ public class LookSign : Lookables
 
     void Start()
     {
+        ResetDirectionSigns();
+    }
+
+    public int signID;
+    public override void Look()
+    {
         SignsManager signsManager = FindFirstObjectByType<SignsManager>();
         if (signsManager != null)
         {
@@ -17,13 +23,7 @@ public class LookSign : Lookables
         {
             Debug.LogError("SignsManager not found in the scene.");
         }
-
-        ResetDirectionSigns();
-    }
-
-    public int signID;
-    public override void Look()
-    {
+        Debug.Log("Looking Sign " + signID);
         if (selectedExitIndex == 1)
         {
             if (signID == 1 || signID == 2 || signID == 3 || signID == 5 || signID == 7 || signID == 8 || signID == 9)
@@ -90,6 +90,8 @@ public class LookSign : Lookables
                 SetDirectionSigns("right");
             }
         }
+        Debug.Log("Selected Exit: " + selectedExitIndex);
+        Debug.Log("Sign ID: " + signID);
     }
 
     private void ResetDirectionSigns()

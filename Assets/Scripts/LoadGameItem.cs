@@ -15,7 +15,7 @@ public class LoadGameItem : MonoBehaviour
         gameNameText.text = game.gameName;
         gameDateText.text = game.date.ToString("dd.MM.yyyy");
         gameLevelText.text = game.level.ToString();
-        gameDeathsText.text = game.lives.ToString();
+        gameDeathsText.text = game.lifes.ToString();
 
         if (game.difficulty == 0) gameDifficultyText.text = "Einfach";
         else if (game.difficulty == 1) gameDifficultyText.text = "Mittel";

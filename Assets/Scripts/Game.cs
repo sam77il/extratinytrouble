@@ -5,5 +5,5 @@ public class Game
     public System.DateTime date;
     public int difficulty;
     public int level;
-    public int lives;
+    public int lifes;
 }

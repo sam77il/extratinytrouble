@@ -23,6 +23,9 @@ public class TrashBin : Interactables
 
     public override void Use()
     {
+        Player player = GameObject.FindWithTag("Player").GetComponent<Player>();
+        if (!player.HasLighter) return;
+        
         Debug.Log("Trash bin interacted with.");
         fire.SetActive(true);
         AudioSource.PlayClipAtPoint(fireSound, transform.position);
