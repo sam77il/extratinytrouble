@@ -41,6 +41,8 @@ public class SignsManager : MonoBehaviour
         {
             GameManager.Instance.UpdateLifes("rem", 1);
             SceneManager.LoadScene(2);
+            SceneManager.LoadSceneAsync(5, LoadSceneMode.Additive);
+
         }
     }
 }

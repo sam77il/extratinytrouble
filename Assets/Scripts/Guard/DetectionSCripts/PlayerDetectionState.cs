@@ -9,22 +9,24 @@ public class PlayerDetectionState : MonoBehaviour
     public bool playerDetected => detectionTime >= requiredDetectionTime;
 
     [Header("UI References")]
-    [SerializeField] private Image detectionHeartPulse; // UI element to show state
+    [SerializeField] private Image detectionWarning; // UI element to show state
+
+    private void Start()
+    {
+        Color col = detectionWarning.color;
+        col.a = 0f;
+        detectionWarning.color = col;
+    }
 
     private void Update()
     {
         //Debug.Log("detected time: " +  detectionTime);
-        // change color of detectionHeartPulse based on detectionTime, between white, orange and red
-        if (detectionHeartPulse != null)
+        // increase transparency when detecting goes up, decrease when goes down
+        if (detectionWarning != null)
         {
-            if (detectionTime <= requiredDetectionTime / 2)
-            {
-                detectionHeartPulse.color = Color.Lerp(Color.white, new Color(1f, 0.5f, 0f), detectionTime / (requiredDetectionTime / 2)); // white to orange
-            }
-            else
-            {
-                detectionHeartPulse.color = Color.Lerp(new Color(1f, 0.5f, 0f), Color.red, (detectionTime - (requiredDetectionTime / 2)) / (requiredDetectionTime / 2)); // orange to red
-            }
+            Color col = detectionWarning.color;
+            col.a = detectionTime / requiredDetectionTime;
+            detectionWarning.color = col;
         }
 
         if (playerInSight)

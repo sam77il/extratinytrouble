@@ -40,6 +40,8 @@ public class SearchPlayer : MonoBehaviour
         float angleToPlayer = Vector3.Angle(transform.forward, directionToPlayer); // get angle of player relative to the guard
 
 
+        if (playerDetectionState == null) // get PlayerDetectionState component from the player if we don't have it yet
+            playerDetectionState = hitCollider.GetComponentInParent<PlayerDetectionState>();
         if (angleToPlayer < (FOV/2)) // calculate if player is in view of *FOV* cone in front of guard
         {
             // do a sphereCast to see if player is in the light area of the flashlight
@@ -48,12 +50,11 @@ public class SearchPlayer : MonoBehaviour
             Debug.DrawLine(positionOfEyes, hitInfo.point, Color.yellow); // draw yellow line to show direction to player
             Debug.DrawRay(positionOfEyes, directionToPlayer, Color.yellow); // draw yellow line to show direction to player
 
+
             if (hitInfo.collider != null) // if whe hit something ( the player or an obstacle )
             {
                 if (hitInfo.collider != null && hitInfo.collider.CompareTag("Player")) // when player in direct sight
                 {
-                    if (playerDetectionState == null) // get PlayerDetectionState component from the player if we don't have it yet
-                        playerDetectionState = hitCollider.GetComponentInParent<PlayerDetectionState>();
                     playerDetectionState.SetPlayerInSight(true);
                     Debug.DrawLine(positionOfEyes, hitInfo.point, Color.magenta); // draw magenta line when player in sight
                     guardAiLogic.PausePatrollingForSeconds(3.5f); // pause patrolling when player in sight
@@ -70,7 +71,14 @@ public class SearchPlayer : MonoBehaviour
                 if (playerDetectionState != null)
                     playerDetectionState.SetPlayerInSight(false);
             }
-        } 
+        }
+
+        //get distance between player and this object
+        float distanceToPlayer = Vector3.Distance(transform.position, hitCollider.transform.position);
+        if (distanceToPlayer > 4.75f) // if player too far away, set playerInSight to false
+        {
+            playerDetectionState.SetPlayerInSight(false);
+        }
     }
 
     private void OnDrawGizmos()

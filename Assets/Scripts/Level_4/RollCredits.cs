@@ -3,19 +3,19 @@ using UnityEngine.SceneManagement;
 
 public class RollCredits : Interactables
 {
-    private bool enabled;
+    private bool isEnabled;
     private bool used;
     [SerializeField] private GameObject guard;
 
     void Start()
     {
-        enabled = false;
+        isEnabled = false;
         used = false;
     }
 
     public override void Use()
     {
-        if (!enabled || used)
+        if (!isEnabled || used)
         {
             return;
         }
@@ -34,7 +34,7 @@ public class RollCredits : Interactables
 
     public void Enable()
     {
-        enabled = true;
+        isEnabled = true;
     }
 
 }
