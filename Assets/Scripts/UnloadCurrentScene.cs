@@ -15,13 +15,20 @@ public class UnloadCurrentScene : MonoBehaviour
 
     private IEnumerator UnloadSceneAfterSeconds()
     {
-        yield return new WaitForSeconds((float)video.length); // wait for the length of the video
+        float waitTime = 0.0f; // default wait time in seconds
+        if (video != null)
+            waitTime = (float)video.length; // set wait time to video length if video is assigned
+        yield return new WaitForSeconds((float)video.length); // wait 
 
         string sceneName = gameObject.scene.name; // get current scene name
 
         if (sceneName == "Credits")
         {
             SceneManager.LoadScene(0); // load main menu after credits
+        }
+        else if (sceneName == "MantelGag")
+        {
+            SceneManager.LoadScene(2); // load first level after intro cutscene
         }
         else
         {

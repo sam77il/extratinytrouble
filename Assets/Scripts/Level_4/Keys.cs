@@ -16,6 +16,7 @@ public class Keys : Interactables
 
     public override void Use()
     {
+        Debug.LogWarning("Pressed key: " + keyNumber);
         keypad.PressKey(keyNumber);
     }
 

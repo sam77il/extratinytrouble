@@ -10,6 +10,8 @@ public class Keypad : MonoBehaviour
     private string displayCode = "----";
     private int hasToEnter = 4;
 
+    [SerializeField] private RollCredits rollCredits; // Reference to RollCredits script
+
 
     private void Start()
     {
@@ -39,7 +41,8 @@ public class Keypad : MonoBehaviour
         {
             --hasToEnter;
             enteredCode += number;
-            displayCode = displayCode.Remove(4 - hasToEnter - 1, 1).Insert(4 - hasToEnter - 1, number);
+            displayCode = enteredCode + new string('-', hasToEnter);
+
         }
 
         if (hasToEnter == 0)
@@ -48,7 +51,9 @@ public class Keypad : MonoBehaviour
             {
                 displayText.text = "Correct";
                 Debug.Log("Correct code entered!");
-                // Add logic to open the door or perform the desired action
+
+                rollCredits.Enable(); // Enable rolling credits
+
             }
             else
             {
