@@ -42,6 +42,8 @@ public class InteractKeypad : Interactables
         {
             Debug.Log("All Cards Inserted! Keypad Unlocked!");
             // Add logic for unlocking the keypad here
+            BoxCollider collider = GetComponent<BoxCollider>();
+            collider.enabled = false;
         }
     }
 }

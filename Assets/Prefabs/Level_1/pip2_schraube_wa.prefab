@@ -99,6 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isScrewed: 1
+  unscrewSound: {fileID: 8300000, guid: 3da14417674e6214089384ded2af9d36, type: 3}
+  landingSound: {fileID: 8300000, guid: 9679289850ce4514cb0c003ce5112721, type: 3}
 --- !u!54 &6831938508620075847
 Rigidbody:
   m_ObjectHideFlags: 0

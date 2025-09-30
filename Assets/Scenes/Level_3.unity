@@ -12199,10 +12199,13 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1064034938}
+      addedObject: {fileID: 1064034942}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1064034935}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1064034941}
   m_SourcePrefab: {fileID: 100100000, guid: 759a15d89b2458c4b848958a3f60aa71, type: 3}
 --- !u!4 &1064034932 stripped
 Transform:
@@ -12229,7 +12232,28 @@ MonoBehaviour:
   redCard: {fileID: 1279342525}
   greenCard: {fileID: 970520244}
   blueCard: {fileID: 286609217}
---- !u!65 &1064034938
+--- !u!135 &1064034941
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064034933}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.0017226003
+  m_Center: {x: -0.000008489689, y: -1.2354124e-16, z: 0}
+--- !u!65 &1064034942
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12248,8 +12272,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.0008569794, y: 0.00199584, z: 0.0034452006}
-  m_Center: {x: -0.000008489689, y: -1.2354124e-16, z: 0}
+  m_Size: {x: 0.001303178, y: 0.022647426, z: 0.022277841}
+  m_Center: {x: -0.00023158906, y: -0.014979206, z: 0.0003184223}
 --- !u!1001 &1064628070
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19291,7 +19315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2beb21172a85d854984c5fd6a12a3cb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredDetectionTime: 5
+  requiredDetectionTime: 1.5
   detectionWarning: {fileID: 2050010629}
 --- !u!1001 &1623768003
 PrefabInstance:

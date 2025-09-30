@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.Audio;
 using static UnityEditor.FilePathAttribute;
 
 /// <summary>
@@ -9,12 +10,17 @@ using static UnityEditor.FilePathAttribute;
 [RequireComponent(typeof(NavMeshAgent))]
 public class GuradCantineAiLogic : GuardAiLogic
 {
-
-
     void Start()
     {
         // set the variables
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = walkingSound;
+        audioSource.volume = 0.5f;
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
+        audioSource.dopplerLevel = 1f;
         patrollingIsEnabled = true;
+
         // get NavMeshAgent
         m_Agent = GetComponent<NavMeshAgent>();
         // get animator from child component (the 3d model)
@@ -48,6 +54,10 @@ public class GuradCantineAiLogic : GuardAiLogic
             // Move to the distraction location
             m_Agent.SetDestination(location.position);
             m_Animator.SetBool("isWalking", true); // set animation
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play();
+            }
             // Wait until the agent reaches the destination
             while (m_Agent.pathPending || m_Agent.remainingDistance > m_Agent.stoppingDistance)
             {
@@ -57,6 +67,7 @@ public class GuradCantineAiLogic : GuardAiLogic
         // After investigating all points, you can choose to return to a default position or resume patrolling
         m_Agent.isStopped = true;
         m_Animator.SetBool("isWalking", false); // set animation
+        audioSource.Stop(); // stop walking sound
     }
 
 }

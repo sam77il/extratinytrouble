@@ -22,7 +22,7 @@ public class CoinThrow : MonoBehaviour
         // add rotational force for realism
         GameObject coin = Instantiate(coinPrefab, Camera.main.transform.position + Camera.main.transform.forward * 0.2f, Quaternion.identity);
         Rigidbody rb = coin.GetComponent<Rigidbody>();
-        rb.AddForce(Camera.main.transform.forward * 10f, ForceMode.VelocityChange);
+        rb.AddForce(Camera.main.transform.forward * 7.5f + new Vector3(0, 2, 0), ForceMode.VelocityChange);
         rb.AddTorque(Random.insideUnitSphere * 2f, ForceMode.VelocityChange);
 
     }

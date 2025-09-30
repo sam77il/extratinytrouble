@@ -193,6 +193,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   delayBetweenPatrolPoints: 2
   patrolPointsParent: {fileID: 678785296848602475}
+  walkingSound: {fileID: 8300000, guid: 2c9f171b59b16f74b8539a849cd1370e, type: 3}
 --- !u!114 &2910250956397739266
 MonoBehaviour:
   m_ObjectHideFlags: 0

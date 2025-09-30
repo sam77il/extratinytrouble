@@ -16,6 +16,10 @@ public class Player : MonoBehaviour
     [SerializeField] private CharacterController characterController;
     [SerializeField] private Camera mainCamera;
 
+    [Header("Audio")]
+    [SerializeField] protected AudioClip walkingSound;
+    protected AudioSource audioSource;
+
     private InputSystem_Actions inputActions;
     private Vector3 currentMovement;
     private float verticalRotation;
@@ -102,6 +106,13 @@ public class Player : MonoBehaviour
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = walkingSound;
+        audioSource.volume = 0.5f;
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
+        audioSource.dopplerLevel = 0f;
     }
 
     private void OnEnable()
@@ -183,6 +194,19 @@ public class Player : MonoBehaviour
 
         HandleJumping();
         characterController.Move(currentMovement * Time.deltaTime);
+
+        if (characterController.velocity.magnitude > 0.1f)
+        {
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play();
+            }
+        }
+        else
+        {
+            audioSource.Stop();
+        }
+
     }
 
     private void ApplyVerticalRotation(float rotationAmount)

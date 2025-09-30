@@ -2553,6 +2553,33 @@ MonoBehaviour:
   m_IgnoreFromBuild: 0
   m_ApplyToChildren: 1
   m_AffectedAgents: ffffffff
+--- !u!54 &916879635
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 916879625}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &922710790 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8416272007918961125, guid: 8c5248490ef592d419c68161f104537f, type: 3}
@@ -3049,6 +3076,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -7029948723529949830, guid: 77a7d806b430f1a498867636ecc83376, type: 3}
       insertIndex: -1
       addedObject: {fileID: 916879630}
+    - targetCorrespondingSourceObject: {fileID: -7029948723529949830, guid: 77a7d806b430f1a498867636ecc83376, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 916879635}
     - targetCorrespondingSourceObject: {fileID: -8961359253771211100, guid: 77a7d806b430f1a498867636ecc83376, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2117772334}
@@ -5660,7 +5690,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2beb21172a85d854984c5fd6a12a3cb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredDetectionTime: 5
+  requiredDetectionTime: 1.5
   detectionWarning: {fileID: 1352936471}
 --- !u!1001 &2048403412
 PrefabInstance:

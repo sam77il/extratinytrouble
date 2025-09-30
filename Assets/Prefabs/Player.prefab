@@ -191,6 +191,13 @@ MonoBehaviour:
   upDownLookRange: 50
   characterController: {fileID: 4409555087637356108}
   mainCamera: {fileID: 2994485310068434017}
+  walkingSound: {fileID: 8300000, guid: 740f9f536fd3f624e83ca48f5d2861d8, type: 3}
+  directionBox: {fileID: 0}
+  HasTranslator: 0
+  HasLighter: 0
+  HasBlueCard: 0
+  HasRedCard: 0
+  HasGreenCard: 0
 --- !u!143 &4409555087637356108
 CharacterController:
   m_ObjectHideFlags: 0

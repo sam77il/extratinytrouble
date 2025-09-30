@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerDetectionState : MonoBehaviour
@@ -37,6 +38,10 @@ public class PlayerDetectionState : MonoBehaviour
                 // Trigger alert state
                 Debug.Log("Player detected! Triggering alert state.");
                 detectionTime = requiredDetectionTime; // Clamp to max
+
+                GameManager.Instance.UpdateLifes("rem", 1);
+                SceneManager.LoadScene(gameObject.scene.buildIndex);
+                SceneManager.LoadSceneAsync(5, LoadSceneMode.Additive);
             }
         }
         else

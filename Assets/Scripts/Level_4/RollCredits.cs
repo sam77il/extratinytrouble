@@ -21,7 +21,7 @@ public class RollCredits : Interactables
         }
         Debug.Log("Rolling credits...");
         guard.SetActive(false); // Disable the guard GameObject
-        SceneManager.LoadSceneAsync(7, LoadSceneMode.Additive);
+        SceneManager.LoadSceneAsync(7);
 
         //// find gameobject with tag playyer and teleport it 10m up in the air
         //GameObject player = GameObject.FindGameObjectWithTag("Player");

@@ -1,17 +1,27 @@
 using System.Collections;
 using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class InteractScrews : Interactables
 {
 
     public bool isScrewed = true;
+    [SerializeField] private AudioClip unscrewSound;
+    [SerializeField] private AudioClip landingSound;
+    protected AudioSource audioSource;
 
-    // Uncomment the following Start method to test the Use method automatically after a delay
-    //private void Start()
-    //{
-    //    StartCoroutine(DelayUse());
-    //}
+    private void Start()
+    {
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = unscrewSound;
+        audioSource.volume = 0.25f;
+        audioSource.loop = false;
+        audioSource.playOnAwake = false;
+        audioSource.dopplerLevel = 1f;
+
+        //StartCoroutine(DelayUse()); // for testing
+    }
 
     //private IEnumerator DelayUse()
     //{
@@ -28,6 +38,7 @@ public class InteractScrews : Interactables
 
     private IEnumerator UseHelper()
     {
+        audioSource.Play();
         float sec = 0f;
         while ( sec <= 0.2f )
         {
@@ -41,6 +52,13 @@ public class InteractScrews : Interactables
         yield return new WaitForSeconds(0.25f);
         isScrewed = false;
         GetComponent<Rigidbody>().isKinematic = false;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        audioSource.clip = landingSound;
+        audioSource.volume = 0.25f;
+        audioSource.Play();
     }
 
 }

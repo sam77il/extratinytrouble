@@ -17,6 +17,8 @@ public class GuardAiLogic : MonoBehaviour
     [Header("Patrolling Settings")]
     [SerializeField] private float delayBetweenPatrolPoints;
     [SerializeField] private GameObject patrolPointsParent;
+    [SerializeField] protected AudioClip walkingSound;
+    protected AudioSource audioSource;
     private Transform[] patrolPoints;
     private int currentPatrolIndex = 0;
     protected bool patrollingIsEnabled;
@@ -24,6 +26,13 @@ public class GuardAiLogic : MonoBehaviour
     void Start()
     {
         // set the variables
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.clip = walkingSound;
+        audioSource.volume = 0.5f;
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
+        audioSource.dopplerLevel = 1f;
+
         patrollingIsEnabled = true;
         // get NavMeshAgent
         m_Agent = GetComponent<NavMeshAgent>();
@@ -97,6 +106,8 @@ public class GuardAiLogic : MonoBehaviour
 
     private IEnumerator WaitUntilAgentReachDestination()
     {
+        audioSource.Play(); // play walking sound
+
         // wait until agent reach destination
         while (m_Agent.pathPending || m_Agent.remainingDistance > m_Agent.stoppingDistance)
         {
@@ -111,8 +122,15 @@ public class GuardAiLogic : MonoBehaviour
             yield return null;
         }
 
+        audioSource.Stop(); // stop walking sound
+
         // go to next patrolling point
         StartCoroutine(GoToPatrollingPoint());
+    }
+
+    public void AlertGuard(Vector3 destination)
+    {
+        m_Agent.SetDestination(destination);
     }
 
 }

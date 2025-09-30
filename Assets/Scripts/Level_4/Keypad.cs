@@ -11,6 +11,9 @@ public class Keypad : MonoBehaviour
     private int hasToEnter = 4;
 
     [SerializeField] private RollCredits rollCredits; // Reference to RollCredits script
+    [SerializeField] private GuardAiLogic guardAiLogic; // Reference to GuardAiLogic script
+    [SerializeField] private AudioClip errorSound; // Sound to play on wrong code entry
+    [SerializeField] private AudioClip correctSound; // Sound to play on correct code entry
 
 
     private void Start()
@@ -51,7 +54,7 @@ public class Keypad : MonoBehaviour
             {
                 displayText.text = "Correct";
                 Debug.Log("Correct code entered!");
-
+                AudioSource.PlayClipAtPoint(correctSound, transform.position); // Play correct sound
                 rollCredits.Enable(); // Enable rolling credits
 
             }
@@ -59,6 +62,8 @@ public class Keypad : MonoBehaviour
             {
                 displayText.text = "Wrong";
                 Debug.Log("Incorrect code. Try again.");
+                AudioSource.PlayClipAtPoint(errorSound, transform.position); // Play error sound
+                guardAiLogic.AlertGuard(transform.position); // Alert the guard
             }
             // Reset for next attempt
             enteredCode = "";
