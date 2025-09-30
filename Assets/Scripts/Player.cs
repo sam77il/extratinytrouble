@@ -203,4 +203,5 @@ public class Player : MonoBehaviour
         transform.Rotate(0, mouseX, 0);
         ApplyVerticalRotation(mouseY);
     }
+
 }
