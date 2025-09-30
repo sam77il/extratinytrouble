@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
             gameName = name,
             difficulty = diff,
             level = 1,
-            lives = finalLives,
+            lifes = finalLives,
             date = System.DateTime.Now
         };
         SaveGameToJson();
@@ -98,5 +98,17 @@ public class GameManager : MonoBehaviour
         CurrentGame = game;
         // Load the saved scene
         SceneManager.LoadScene(game.level);
+    }
+
+    public void UpdateLifes(string operation, int amount)
+    {
+        if (CurrentGame != null)
+        {
+            if (operation == "add") CurrentGame.lifes += amount;
+            else if (operation == "rem") CurrentGame.lifes -= amount;
+            else if (operation == "set") CurrentGame.lifes = amount;
+
+            SaveGameToJson();
+        }
     }
 }

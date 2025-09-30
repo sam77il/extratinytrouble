@@ -1,18 +1,10 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SignsManager : MonoBehaviour
 {
     [SerializeField] private GameObject exits;
-    [SerializeField] private GameObject directionSign1;
-    [SerializeField] private GameObject directionSign2;
-    [SerializeField] private GameObject directionSign3;
-    [SerializeField] private GameObject directionSign4;
-    [SerializeField] private GameObject directionSign5;
-    [SerializeField] private GameObject directionSign6;
-    [SerializeField] private GameObject directionSign7;
-    [SerializeField] private GameObject directionSign8;
-    [SerializeField] private GameObject directionSign9;
     private List<GameObject> exitPoints = new List<GameObject>();
     public int selectedExitIndex = -1;
 
@@ -21,11 +13,6 @@ public class SignsManager : MonoBehaviour
         foreach (Transform child in exits.transform)
         {
             exitPoints.Add(child.gameObject);
-        }
-
-        foreach (GameObject exit in exitPoints)
-        {
-            exit.SetActive(false);
         }
 
         RandomizeExit();
@@ -43,79 +30,17 @@ public class SignsManager : MonoBehaviour
         Debug.Log("Activated Exit: " + selectedExitIndex);
     }
 
-    private void ChoosePath()
+    public void SetExit(int exitIndex)
     {
-        if (selectedExitIndex == 1)
+        if (exitIndex == selectedExitIndex)
         {
-            directionSign2.SetActive(true); // right
-            directionSign1.SetActive(true); // right
-            directionSign3.SetActive(true); // right
-            directionSign4.SetActive(true); // left
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // left
-            directionSign7.SetActive(true); // right
-            directionSign8.SetActive(true); // right
-            directionSign9.SetActive(true); // right
+            // Szenenwechsel
+            SceneManager.LoadScene(3);
         }
-        else if (selectedExitIndex == 2)
+        else
         {
-            directionSign2.SetActive(true); // left
-            directionSign1.SetActive(true); // left
-            directionSign3.SetActive(true); // left
-            directionSign4.SetActive(true); // left
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // left
-            directionSign7.SetActive(true); // right
-            directionSign8.SetActive(true); // left
-            directionSign9.SetActive(true); // right
-        }
-        else if (selectedExitIndex == 3)
-        {
-            directionSign2.SetActive(true); // left
-            directionSign1.SetActive(true); // left
-            directionSign3.SetActive(true); // right
-            directionSign4.SetActive(true); // right
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // left
-            directionSign7.SetActive(true); // left
-            directionSign8.SetActive(true); // left
-            directionSign9.SetActive(true); // right
-        }
-        else if (selectedExitIndex == 4)
-        {
-            directionSign2.SetActive(true); // left
-            directionSign1.SetActive(true); // right
-            directionSign3.SetActive(true); // right
-            directionSign4.SetActive(true); // left
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // right
-            directionSign7.SetActive(true); // left
-            directionSign8.SetActive(true); // left
-            directionSign9.SetActive(true); // right
-        }
-        else if (selectedExitIndex == 5)
-        {
-            directionSign2.SetActive(true); // left
-            directionSign1.SetActive(true); // right
-            directionSign3.SetActive(true); // right
-            directionSign4.SetActive(true); // left
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // right
-            directionSign7.SetActive(true); // left
-            directionSign8.SetActive(true); // right
-            directionSign9.SetActive(true); // right
-        }
-        else if (selectedExitIndex == 6)
-        {
-            directionSign2.SetActive(true); // right
-            directionSign1.SetActive(true); // right
-            directionSign3.SetActive(true); // right
-            directionSign4.SetActive(true); // left
-            directionSign5.SetActive(true); // right
-            directionSign6.SetActive(true); // right
-            directionSign7.SetActive(true); // right
-            directionSign8.SetActive(true); // right
-            directionSign9.SetActive(true); // left
+            GameManager.Instance.UpdateLifes("rem", 1);
+            SceneManager.LoadScene(2);
         }
     }
 }

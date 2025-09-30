@@ -13,6 +13,9 @@ public class InteractTranslator : Interactables
     private void UseHelper()
     {
         hasTranslation = true;
+        gameObject.SetActive(false);
+        Player player = GameObject.FindWithTag("Player").GetComponent<Player>();
+        player.HasTranslator = true;
     }
 
 }

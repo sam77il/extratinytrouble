@@ -1,3 +1,4 @@
+using NUnit.Framework;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -28,17 +29,12 @@ public class Player : MonoBehaviour
 
     private Interactables isInteractable;
     private Lookables isLookable;
-    public int Health { get; private set; }
     [SerializeField] private GameObject directionBox;
-
-    public void UpdateHealth(string operation, int amount)
-    {
-        if (operation == "add") Health += amount;
-        else if (operation == "rem") Health -= amount;
-        else if (operation == "set") Health = amount;
-
-        Health = Mathf.Clamp(Health, 0, 100);
-    }
+    public bool HasTranslator = false;
+    public bool HasLighter = false;
+    public bool HasBlueCard = false;
+    public bool HasRedCard = false;
+    public bool HasGreenCard = false;
 
     private void Awake()
     {
@@ -143,7 +139,7 @@ public class Player : MonoBehaviour
             isLookable = null;
         }
 
-        if (isLookable != null)
+        if (isLookable != null && HasTranslator)
         {
             if (directionBox != null) directionBox.SetActive(true);
             isLookable.Look();
