@@ -14,6 +14,7 @@ public class Keypad : MonoBehaviour
     [SerializeField] private GuardAiLogic guardAiLogic; // Reference to GuardAiLogic script
     [SerializeField] private AudioClip errorSound; // Sound to play on wrong code entry
     [SerializeField] private AudioClip correctSound; // Sound to play on correct code entry
+    [SerializeField] private GameObject quest; // reference to quest object
 
 
     private void Start()
@@ -56,6 +57,7 @@ public class Keypad : MonoBehaviour
                 Debug.Log("Correct code entered!");
                 AudioSource.PlayClipAtPoint(correctSound, transform.position); // Play correct sound
                 rollCredits.Enable(); // Enable rolling credits
+                quest.GetComponent<TextMeshProUGUI>().text = "Verlasse das Labor"; // update the quest text
 
             }
             else

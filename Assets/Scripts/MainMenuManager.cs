@@ -14,6 +14,12 @@ public class MainMenuManager : MonoBehaviour
     [SerializeField] private GameObject itemPrefab;
     [SerializeField] private Transform itemContainer;
 
+    void Start()
+    {
+        UnityEngine.Cursor.lockState = CursorLockMode.None;
+        UnityEngine.Cursor.visible = true;
+    }
+
     public void NewGame_Btn()
     {
         // SceneManager.LoadScene(1);
@@ -38,6 +44,16 @@ public class MainMenuManager : MonoBehaviour
             GameObject item = Instantiate(itemPrefab, itemContainer);
             item.GetComponent<LoadGameItem>().SetData(game);
         }
+    }
+
+    public void ExitGame_Btn()
+    {
+        Debug.Log("Exiting game...");
+        #if UNITY_EDITOR
+                UnityEditor.EditorApplication.isPlaying = false;
+        #else
+                Application.Quit();
+        #endif
     }
 
     private void ChangeTab(string tabName)
