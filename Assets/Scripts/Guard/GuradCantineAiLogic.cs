@@ -2,7 +2,6 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Audio;
-using static UnityEditor.FilePathAttribute;
 
 /// <summary>
 /// Adjusted GuardAiLogic.cs script for the cantine Level 3

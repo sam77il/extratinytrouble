@@ -4706,7 +4706,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 160, y: 26.704}
+  m_AnchoredPosition: {x: 160, y: 26.70398}
   m_SizeDelta: {x: 280.6669, y: 350.71}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1881813022
@@ -5066,7 +5066,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2110836546}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 151649956}
+        m_TargetAssemblyTypeName: MainMenuManager, Assembly-CSharp
+        m_MethodName: ExitGame_Btn
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2110836546
 MonoBehaviour:
   m_ObjectHideFlags: 0
