@@ -4,6 +4,9 @@ public class InertactFusebox : Interactables
 {
     private bool collectedScrewdriver;
     [SerializeField] private Keypad keypad; // reference to keypad to unlock it when fusebox is used
+    [SerializeField] private GameObject quest1; // reference to quest 1 object to deactivate it when fusebox is used
+    [SerializeField] private GameObject quest2; // reference to quest 2 object to activate it when fusebox is used  
+
 
     void Start()
     {
